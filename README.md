@@ -8,3 +8,4 @@ Załoga:
 5) Wojciech Duda
 
 commit  4 dominik
+commit 5 karol
