@@ -1,6 +1,4 @@
 Laboratorium 6 - GIT
-
-
 Załoga:
 1) Dominik Nytz
 2) Radosław Pawelec
