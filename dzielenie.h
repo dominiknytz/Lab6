@@ -1,6 +1,7 @@
-int dzielenie(int a, int b)
+int main(int a, int b)
 {
+printf("sadda");
 return a/b;
 }
 
-konflikt wojtek
+
