@@ -6,3 +6,5 @@ Załoga:
 3) Karol Kaśków
 4) Jonatan Wojciechowski
 5) Wojciech Duda
+
+commit  4 dominik
