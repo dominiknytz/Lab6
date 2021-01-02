@@ -3,7 +3,7 @@
 #include "odejmowanie.h"
 #include "mnozenie.h"
 #include "dzielenie.h"
-
+konflikt dominik
 int main(){
 	int x,y;
 	char c;
