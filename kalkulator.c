@@ -3,7 +3,6 @@
 #include "odejmowanie.h"
 #include "mnozenie.h"
 #include "dzielenie.h"
-
 int main(){
 	int x,y;
 	char c;
@@ -12,7 +11,7 @@ int main(){
 	getchar();
 	printf("jakie dzia³anie?(+,-,*,/) \n");
 	scanf("%c", &c);
-	
+
 	if(c=='+'){
 		printf("Wynik dodawania = %d", dodawanie(x,y));
 	}
