@@ -7,4 +7,4 @@ Załoga:
 4) Jonatan Wojciechowski
 5) Wojciech Duda
 
-commit 4 dominik
+commit  4 dominik
