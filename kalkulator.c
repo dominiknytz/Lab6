@@ -34,4 +34,5 @@ int main(){
 
 
 	konflikt radek
+	konflikt radek 2
 }
