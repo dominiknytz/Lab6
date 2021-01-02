@@ -1,7 +1,4 @@
-int dzielenie(int a, int b){
-if(b==0) 
+int dzielenie(int a, int b)
 {
-printf("Nie dzielimy przez zero!\n");
-else
 return a/b;
 }
