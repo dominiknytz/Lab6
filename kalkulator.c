@@ -6,6 +6,7 @@
 
 konflikt  dominik
 potwierdzenie 1 dominik
+commit 7 karol
 int main(){
 	int x,y;
 	char c;
