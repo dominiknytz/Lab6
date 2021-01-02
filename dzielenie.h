@@ -1,7 +1,4 @@
-int main(int a, int b)
+int dzielenie(int a, int b)
 {
-printf("sadda");
 return a/b;
 }
-
-
