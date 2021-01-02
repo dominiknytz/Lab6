@@ -4,6 +4,7 @@
 #include "mnozenie.h"
 #include "dzielenie.h"
 konflikt  dominik
+potwierdzenie 1 dominik
 int main(){
 	int x,y;
 	char c;
